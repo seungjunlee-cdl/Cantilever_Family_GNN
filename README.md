@@ -26,4 +26,8 @@ Used residual connection in hidden node features
 
 ### Results
 Recursive process is needed to get optimal topology prediction with trained model  
+Gaussian noise added at input material density to alleviate error accumulation  
 ![recursive](https://user-images.githubusercontent.com/56711947/149759038-c2e0afbb-6b36-4391-97a3-d2192d9a5a0a.jpg)  
+![results](https://user-images.githubusercontent.com/56711947/149759545-6efb2805-4fe7-4604-95ec-5b4d52959f1e.jpg)
+Compliance scatter plot and coefficient of determination  
+![compliance scatter plot](https://user-images.githubusercontent.com/56711947/149759969-7eafa693-1480-45db-9eb6-821b0e6fbf61.jpg)
