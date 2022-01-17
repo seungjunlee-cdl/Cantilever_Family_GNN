@@ -22,7 +22,9 @@ Output node features
 ### Model architecture
 19 graph attention layer with batch normalization, dropout and L2 regularization  
 Used residual connection in hidden node features  
-![model](https://user-images.githubusercontent.com/56711947/149758267-ea8a01a1-defa-418c-8e96-bcc87105479c.jpg)
+![model](https://user-images.githubusercontent.com/56711947/149758267-ea8a01a1-defa-418c-8e96-bcc87105479c.jpg)  
+Learning rate -> Cosine annealing warm restarts  
+![lr](https://user-images.githubusercontent.com/56711947/149761125-712885bf-39c0-4b16-8dee-90a863c0425e.jpg)
 
 ### Results
 Recursive process is needed to get optimal topology prediction with trained model  
