@@ -1,1 +1,1 @@
-# Cantilever_Family_GNN
+# Cantilever_Family_GNN_with_intermediate
